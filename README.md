@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Status](https://img.shields.io/badge/status-stable-brightgreen)
+![License](https://img.shields.io/github/license/LucasTymen/avtis-scrapping-machine)
+![GitHub last commit](https://img.shields.io/github/last-commit/LucasTymen/avtis-scrapping-machine)
+
+
 # 📊 AVTIS Lead Scrapping Machine v2
 
 Cette machine traite automatiquement des fichiers CSV exportés de LinkedIn via PhantomBuster, les nettoie, les enrichit localement, et sort un fichier final prêt pour le CRM ou la prospection manuelle.
