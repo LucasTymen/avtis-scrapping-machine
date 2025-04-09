@@ -1,0 +1,10 @@
+pandas
+beautifulsoup4
+requests
+lxml
+fake-useragent
+openpyxl
+tldextract
+unidecode
+cloudscraper
+python-dateutil
